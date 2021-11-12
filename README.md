@@ -20,3 +20,4 @@
   </div>
 
   
+  ![Snake animation](https://github.com/allecporfirio/allecporfirio/blob/output/github-contribution-grid-snake.svg)
