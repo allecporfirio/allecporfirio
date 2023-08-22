@@ -2,7 +2,7 @@
 
 ##
 
-- 👾 Estudante de Sistemas de Informação
+- 👾 Estudante de Ciencias da Computação
 
 <div align="center">
   <a href="https://github.com/allecporfirio">
