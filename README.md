@@ -15,6 +15,14 @@
   <div>
       <a href="https://www.linkedin.com/in/alessandro-porfírio-124790184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+      Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario #allecporfirio
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
       ![snake gif](https://github.com/allecporfirio/allecporfirio/blob/output/github-contribution-grid-snake.svg)
    
   ![Snake animation](https://github.com/allecporfirio/allecporfirio/blob/output/github-contribution-grid-snake.svg)
