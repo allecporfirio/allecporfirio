@@ -1,6 +1,6 @@
 ### Olá, sou o Alê! 🦄
 ##
-- 👾 Estudante de Ciências da Computação 
+- 👾 Estudante de Ciência da Computação 
 - Software Developer at Minsait | Salesforce ☁️
 <div align="center">
   <a href="https://github.com/allecporfirio">
