@@ -1,7 +1,7 @@
 ### Olá, sou o Alê! 🦄
 ##
 - 👾 Estudante de Ciência da Computação 
-- Software Developer at Minsait | Salesforce ☁️
+- Software Developer at GFT Technologies | Salesforce ☁️
 <div align="center">
   <a href="https://github.com/allecporfirio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allecporfirio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
